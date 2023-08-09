@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/JPA-004027?style=flat&logo=Jameson&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/thymeleaf-111324?style=flat&logo=Thymeleaf&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/JPA-004027?style=flat&logo=Jameson&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp
