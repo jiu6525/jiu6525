@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">&nbsp
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiu6525&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiu6525&theme=dark&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwldn789)](https://solved.ac/rkdwldn789)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiu6525&layout=compact&theme=tokyonight)
