@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </p>
 
 
-
+![jiu6525's github stats](https://github-readme-stats.vercel.app/api?username=jiu6525&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiu6525&layout=compact&theme=tokyonight)
