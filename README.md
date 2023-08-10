@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jiu6525/jiu6525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
