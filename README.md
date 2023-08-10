@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jiu6525)](https://solved.ac/jiu6525)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwldn789)](https://solved.ac/rkdwldn789)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiu6525&layout=compact&theme=tokyonight)
