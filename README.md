@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiu6525&theme=dark&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiu6525&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiu6525&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwldn789)](https://solved.ac/rkdwldn789)
