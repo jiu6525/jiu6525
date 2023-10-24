@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiu6525&show_icons=true&theme=transparent) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdwldn789)](https://solved.ac/rkdwldn789)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdwldn789)](https://solved.ac/rkdwldn789/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiu6525&layout=compact&theme=tokyonight)
